@@ -1,0 +1,10 @@
+{
+  "workstationTypeCode": "wca01",
+  "workstationTypeDesc": "string",
+  "departmentId": "27a31209-02ac-4116-8e77-612ec7300a1d",
+  "plantCode": "Q01",
+  "externalRefCode": "string",
+  "createdUser": "string",
+  "updatedUser": "string",
+  "versionFlag": 1
+}

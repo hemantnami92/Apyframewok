@@ -1,0 +1,43 @@
+{
+  "companyCode": "string",
+  "companyName": "string",
+  "createdUser": "string",
+  "updatedUser": "string",
+  "versionFlag": 0,
+  "externalRefCode": "string",
+  "userInfo": {
+    "userId": "string",
+    "firstName": "string",
+    "middleName": "string",
+    "lastName": "string",
+    "gender": "string",
+    "refId": "string",
+    "dateOfBirth": "string",
+    "createdUser": "string",
+    "updatedUser": "string",
+    "versionFlag": 0,
+    "employeeNumber": "string"
+  },
+  "contactInfo": {
+    "contactId": "string",
+    "landLineNo": "string",
+    "mobileNo": "string",
+    "email": "string",
+    "createdUser": "string",
+    "updatedUser": "string",
+    "versionFlag": 0
+  },
+  "addressInfo": {
+    "addressId": "string",
+    "doorNo": "string",
+    "addressLine1": "string",
+    "addressLine2": "string",
+    "landmark": "string",
+    "state": "string",
+    "country": "string",
+    "zipcode": "string",
+    "createdUser": "string",
+    "updatedUser": "string",
+    "versionFlag": 0
+  }
+}

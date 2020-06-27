@@ -1,0 +1,11 @@
+{
+  "workstationTypeId": "string",
+  "workstationTypeCode": "string",
+  "workstationTypeDesc": "string",
+  "departmentId": "string",
+  "plantCode": "string",
+  "externalRefCode": "string",
+  "createdUser": "string",
+  "updatedUser": "string",
+  "versionFlag": 2
+}
